@@ -1,8 +1,8 @@
-# Hapi Node Boilerplate 2020
+# Immo-api 2020
 
 ![Hapi-Node-Boilerplate](https://myhappyagency.com/blog/wp-content/uploads/2020/01/hapi-node.png)
 
-Build powerful, scalable applications, with minimal overhead and full out-of-the-box functionality - your code, your way.
+API to catch and order french cities, prices and trends from Seloger.
 
 ## Installation
 
