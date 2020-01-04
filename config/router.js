@@ -5,7 +5,8 @@
 'use strict'
 
 const routes = [].concat(
-  require('../routes/404')
+  require('../routes/404'),
+  require('../routes/api')
 )
 
 module.exports = {
